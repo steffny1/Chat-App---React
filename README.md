@@ -1,4 +1,4 @@
-<h1>Chat Application built with React</h1>
+<h1>Chat Application built with React and ChatEngine.io API</h1>
 
 
 <h6>Link </h6> 
